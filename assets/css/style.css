@@ -1,108 +1,108 @@
 .header {
-    line-height: 100px;
-    color: #fff;
-    background: #fff;
-    width: 960px;
-    margin-left: 100px;
-    height: 60px;
-    z-index: 1;
-  }
+  line-height: 100px;
+  color: #fff;
+  background: #fff;
+  width: 960px;
+  margin-left: 100px;
+  height: 60px;
+  z-index: 1;
+}
 .header-name {
-    font-family: "Georgia", "Times", "Times New Roman", "Serif";
-    background-color: darkblue;
-    padding-left: 25px;
-    padding-right: 25px;
-    float: left;
-    font-size: 28pt;
-    color: white;
-    height: 100%;
-    line-height: 150%;
+  font-family: "Georgia", "Times", "Times New Roman", "Serif";
+  background-color: darkblue;
+  padding-left: 25px;
+  padding-right: 25px;
+  float: left;
+  font-size: 28pt;
+  color: white;
+  height: 100%;
+  line-height: 150%;
 }
 .nav-option {
-  float: right;
-  margin-top:20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
-  background-color: white;
-  color: gray;
-  text-decoration: none;
-  border-right:solid 1px lightgray;
-  height: 30%;
-  line-height: 100%;
+float: right;
+margin-top:20px;
+padding-left: 20px;
+padding-right: 20px;
+font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
+background-color: white;
+color: gray;
+text-decoration: none;
+border-right:solid 1px lightgray;
+height: 30%;
+line-height: 100%;
 }
 /* .header-nav-options {
-    font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
-    float: right;
-    background-color: beige;
-    z-index: 1;
+  font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
+  float: right;
+  background-color: beige;
+  z-index: 1;
 } */
 /* .header-menu-options-right a {
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  } */
-  .AboutMe-container {
-    position: relative;
-    clear: both;
-    height: 600px;
-    background-color: lightslategray;
-    float: left;
-    width: 100%;
-    overflow: auto;
-  }
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} */
+.AboutMe-container {
+  position: relative;
+  clear: both;
+  height: 600px;
+  background-color: lightslategray;
+  float: left;
+  width: 100%;
+  overflow: auto;
+}
 .AboutMe-content-header-section {
-  /* position: absolute; */
-    font-family: "Georgia", "Times", "Times New Roman", "Serif";
-    font-size: 10pt;
-    position: relative;
-    border-bottom: 5px solid gray;
-    line-height: 50px;
-    margin-top: 10px;
-    margin-left: 5%;
-    height: 10%;
-    width: 90%;
+/* position: absolute; */
+  font-family: "Georgia", "Times", "Times New Roman", "Serif";
+  font-size: 10pt;
+  position: relative;
+  border-bottom: 5px solid gray;
+  line-height: 50px;
+  margin-top: 10px;
+  margin-left: 5%;
+  height: 10%;
+  width: 90%;
 }
 .AboutMe-content-section {
-  /* position: absolute; */
-    font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
-    position: relative;
-    background-color: rgb(243, 222, 128);
-    margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 100px;
-    height: 90%;
-    width: 960px;
-}
-.AboutMe-content-paragraphs {
+/* position: absolute; */
   font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
   position: relative;
   background-color: rgb(243, 222, 128);
-  margin-top: 10px;
-  margin-left: 5%;
-  height: 60%;
-  width: 90%;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  height: 90%;
+  width: 960px;
+}
+.AboutMe-content-paragraphs {
+font-family: "Arial", "Helvetica Neue", "Helvetica", "Sans-serif";
+position: relative;
+background-color: rgb(243, 222, 128);
+margin-top: 10px;
+margin-left: 5%;
+height: 60%;
+width: 90%;
 }
 footer {
-      border-top: 5px solid darkblue;
-      float: left;
-      width: 100%;
-      height: 50px;
-      line-height: 50px;
-      text-align: center;
-      /* overflow: auto; */
-      clear: both;
-      color: #fff;
-      background: #bdb332;
-      }
+    border-top: 5px solid darkblue;
+    float: left;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    /* overflow: auto; */
+    clear: both;
+    color: #fff;
+    background: #bdb332;
+    }
 #AboutMe-header {
-  line-height: 50px;
+line-height: 50px;
 }
 #bio-image {
-  float: left;
-  height: 100%;
-  margin-right: 20px;
- }
+float: left;
+height: 100%;
+margin-right: 20px;
+}
